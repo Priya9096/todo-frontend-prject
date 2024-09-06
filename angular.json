@@ -109,5 +109,8 @@
       }
     }
   },
-  "defaultProject": "todo-frontend"
+  "defaultProject": "todo-frontend",
+  "cli": {
+    "analytics": "baf5ea9b-c01c-4444-a6dd-98878490f4ec"
+  }
 }
